@@ -1,3 +1,6 @@
 [submodule "p1-insta485-static"]
 	path = p1-insta485-static
 	url = git@github.com:temttae/eecs485-p1-insta485-static.git
+[submodule "p2-insta485-serverside"]
+	path = p2-insta485-serverside
+	url = git@github.com:temttae/eecs485-p2-insta485-serverside.git
