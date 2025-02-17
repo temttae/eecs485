@@ -4,3 +4,6 @@
 [submodule "p2-insta485-serverside"]
 	path = p2-insta485-serverside
 	url = git@github.com:temttae/eecs485-p2-insta485-serverside.git
+[submodule "p3-insta485-clientside"]
+	path = p3-insta485-clientside
+	url = git@github.com:temttae/eecs485-p3-insta485-clientside.git
