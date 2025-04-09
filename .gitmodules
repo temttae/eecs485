@@ -7,3 +7,6 @@
 [submodule "p3-insta485-clientside"]
 	path = p3-insta485-clientside
 	url = git@github.com:temttae/eecs485-p3-insta485-clientside.git
+[submodule "p4-mapreduce"]
+	path = p4-mapreduce
+	url = git@github.com:temttae/eecs485-p4-mapreduce.git
