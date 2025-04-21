@@ -10,3 +10,6 @@
 [submodule "p4-mapreduce"]
 	path = p4-mapreduce
 	url = git@github.com:temttae/eecs485-p4-mapreduce.git
+[submodule "p5-search-engine"]
+	path = p5-search-engine
+	url = git@github.com:temttae/eecs485-p5-search-engine.git
